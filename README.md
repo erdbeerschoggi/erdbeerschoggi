@@ -1,6 +1,6 @@
 <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3hkejhsM21kMHJ2MzhlbGE0cmw3dnB3Z21maXJteTlvYzdwNGZ0OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/7NoNw4pMNTvgc/giphy.gif" align="right" width="300" alt="Large side GIF" />
 
-# <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXVmaGVxb2cwdDNjZ3U2Y2dnbjc2Z29qNnd1dG5zNXNnbXgwaHRrNSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/RtKgwIKKc2EjEyGla4/giphy.gif" width="60" alt="skateboarding" /> About Me:
+# About Me:
 I’m an IMS student currently diving deeper into the tech world.<br>Currently on the search for a 1-year internship (Informatikspraktikum).<br>When I'm away from the keyboard, I love challenging myself with rock climbing and, if the weather plays along, you can usually find me skateboarding! <br>
 
 
