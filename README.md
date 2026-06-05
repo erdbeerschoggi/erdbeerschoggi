@@ -10,9 +10,8 @@ I’m an IMS student currently diving deeper into the tech world.<br>Currently o
 
 
 
-### 📊 GitHub Stats:
+# 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=erdbeerschoggi&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-
 ![](https://streak-stats.demolab.com/?user=erdbeerschoggi&theme=dark&hide_border=false)<br/>
-
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=erdbeerschoggi&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
