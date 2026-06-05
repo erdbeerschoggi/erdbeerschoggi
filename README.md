@@ -1,4 +1,4 @@
-<img src="https://ch.pinterest.com/pin/869828115499588170/" align="right" width="300" alt="Large side GIF" />
+<img src="https://pin.it/3k6tOLSBQ" align="right" width="300" alt="Large side GIF" />
 
 <h3 align="left">Hi!! <img src="https://media.giphy.com/media/kZqbBT64ECtjy/giphy.gif" width="40" alt="Hello Kitty" /></h3>
 
