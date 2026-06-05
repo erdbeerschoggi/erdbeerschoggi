@@ -1,6 +1,6 @@
 <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3hkejhsM21kMHJ2MzhlbGE0cmw3dnB3Z21maXJteTlvYzdwNGZ0OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/7NoNw4pMNTvgc/giphy.gif" align="right" width="300" alt="Large side GIF" />
 
-<h3 align="left">Hi!! <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWlsZW9lZ2h3dXdmb3ZxaXBubXZ1bHZmYjYzM2R6bXkxcDVnODNoaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/S5h4gvxxc1qlG/giphy.gif" width="40" alt="Hello Kitty" /></h3>
+<h3 align="left">Hi!! <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzExaGlyNWdzZG44eWlhbzI1ZGlveHFkanFweGx6bjR4azA0M3plOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bt8FwKXiNKRkQ/giphy.gif" width="40" alt="Hello Kitty" /></h3>
 
 <h3 align="left">I'm Maja, a student currently attending IMS.</h3>
 
