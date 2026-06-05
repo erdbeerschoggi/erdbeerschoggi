@@ -1,4 +1,3 @@
-<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3hkejhsM21kMHJ2MzhlbGE0cmw3dnB3Z21maXJteTlvYzdwNGZ0OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/7NoNw4pMNTvgc/giphy.gif" align="right" width="300" alt="Large side GIF" />
 
 # 🌸 About Me:
 I’m an IMS student currently diving deeper into the tech world.<br>Currently on the search for a 1-year internship (Informatikspraktikum).<br>When I'm away from the keyboard, I love challenging myself with rock climbing and, if the weather plays along, you can usually find me skateboarding! <br>
