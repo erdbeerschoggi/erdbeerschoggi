@@ -1,4 +1,4 @@
-<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmdoYms1a211NXI1M25qNWYwNGh6NTJudzU1MzV2NmN5OXR0bnRjeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPnAiaMCws8nOsE/giphy.gif" align="right" width="300" alt="Large side GIF" />
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3hkejhsM21kMHJ2MzhlbGE0cmw3dnB3Z21maXJteTlvYzdwNGZ0OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/7NoNw4pMNTvgc/giphy.gif" align="right" width="300" alt="Large side GIF" />
 
 <h3 align="left">Hi!! <img src="https://media.giphy.com/media/kZqbBT64ECtjy/giphy.gif" width="40" alt="Hello Kitty" /></h3>
 
