@@ -2,7 +2,8 @@
 
 ### 🌸 About Me:
 
-I’m an IMS student currently diving deeper into the tech world.<br>Currently on the search for a 1-year internship (Informatikspraktikum).<br>When I'm away from the keyboard, I love challenging myself with rock climbing and, if the weather plays along, you can usually find me skateboarding! <br>
+I’m an IMS student currently diving deeper into the tech world.<br>Currently on the search for a 1-year internship (Informatikspraktikum).<br>When I'm away from the keyboard, I love challenging myself with rock climbing and, 
+if the weather plays along, you can usually find me skateboarding! <br>
 
 
 ### 💻 Tech Stack:
